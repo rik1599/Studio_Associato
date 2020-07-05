@@ -1,4 +1,4 @@
-package com.belli.uniud;
+package com.belli.uniud.applicazione;
 
 public class Settore {
     private final Double costoBase;

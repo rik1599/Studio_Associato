@@ -1,11 +1,11 @@
-package com.belli.uniud;
+package com.belli.uniud.applicazione;
 
 import com.belli.uniud.enums.Livello;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class Consulente {
+class Consulente {
     private final String nome;
     private Map<Settore, Livello> competenze;
 
